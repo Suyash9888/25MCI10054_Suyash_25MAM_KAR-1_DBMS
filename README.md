@@ -1,0 +1,2 @@
+# 25MCI10054_Suyash_25MAM_KAR-1_DBMS
+DBMS Practical MST-1
